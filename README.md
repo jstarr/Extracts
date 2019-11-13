@@ -15,3 +15,4 @@ To use it, run
 3. Name of the source file e.g. ~/Videos/my_original.mp4
 4. Name of the output file e.g. ~/Videos/my_output.mp4
 
+NOTE: Any line beginning with a '#' is ignored.
